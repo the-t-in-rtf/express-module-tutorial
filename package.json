@@ -1,0 +1,15 @@
+{
+  "name": "express-module",
+  "version": "0.0.0",
+  "description": "Sample code to accompany a blog post on express 4.x and creating nested modules.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tony Atkins <tony@raisingthefloor.org>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.1.1",
+    "http": "0.0.0"
+  }
+}
